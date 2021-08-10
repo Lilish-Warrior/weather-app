@@ -98,3 +98,8 @@
 .temperature {
   padding: 0px 20px;
 }
+
+#link-bottom {
+  display: block;
+  text-align: center;
+}
